@@ -1,4 +1,8 @@
-Welcome to my distraction-free VS Code configuration! In this setup, I've carefully curated settings to make your coding experience more enjoyable and less distracting. The primary goal is to optimize the interface, enhance scrolling and cursor behavior, and introduce intuitive keybindings. Additionally, I've included some extensions that I personally find useful for development.
+Welcome to my distraction-free VS Code configuration! In this setup, I've carefully curated settings to make your coding experience more enjoyable and less distracting. The primary goal is to optimize the interface, enhance scrolling and cursor behavior, and introduce good keybindings. 
+
+
+
+Additionally, I've included some extensions that I personally find useful for development.
 
 
 ![Optimized VS Code](https://i.imgur.com/2fAWLA3.png)
